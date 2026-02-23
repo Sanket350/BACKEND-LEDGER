@@ -28,21 +28,21 @@ Users can register, login, and manage ledger entries securely using JWT authenti
 
 🛠️ Technologies Used
 
-Node.js
+- Node.js
 
-Express.js
+- Express.js
 
-MongoDB
+- MongoDB
 
-Mongoose
+- Mongoose
 
-JWT (JSON Web Token)
+- JWT (JSON Web Token)
 
-Cookie-parser
+- Cookie-parser
 
-dotenv
+- dotenv
 
-bcryptjs
+- bcryptjs
 
 📂 Project Structure
 backend-ledger/
